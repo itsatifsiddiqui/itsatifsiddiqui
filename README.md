@@ -1,7 +1,6 @@
 ### HALLO I'm Atif Siddiqui 👋
 
-<!--
-**itsatifsiddiqui/itsatifsiddiqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -10,7 +9,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [Email - @itsatifsiddiqui]
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Traveller...
--->
 
 **Languages and Tools:**  
 
@@ -21,19 +19,13 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
-<a href="https://github.com/iampawan">
+<a href="https://github.com/itsatifsiddiqui">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iampawan&theme=dark&hide_langs_below=1" />
 </a>
-<a href="https://github.com/iampawan">
+<a href="https://github.com/itsatifsiddiqui">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iampawan&show_icons=true&theme=dark&line_height=27" alt="Pawan's github stats"/>
 </a>
-<a href="https://github.com/iampawan/FlutterExampleApps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=FlutterExampleApps&theme=dark" />
 
-</a>
-<a href="https://github.com/iampawan/VelocityX">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=VelocityX&theme=dark" />
-</a>
 
 <div align="center">
 
