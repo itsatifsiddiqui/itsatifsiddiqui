@@ -1,13 +1,11 @@
-### HALLO I'm Atif Siddiqui 👋
-
-
+## HALLO I'm Atif Siddiqui 👋
 
 - 🔭 I’m currently working on Fiverr As Freelancer  ...
 - 🌱 I’m currently learning Flutter...
 - 📫 How to reach me: ... [Email - @itsatifsiddiqui@gmail.com]
 - ⚡ Fun fact: Traveller...
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=apple&logoColor=white&color=ba000d)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=ba000d)
