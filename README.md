@@ -13,9 +13,9 @@
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=ba000d)
 ![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=ba000d)
 ![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=ba000d)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=ba000d)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=ba000d)
 ![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=ba000d)
+![](https://img.shields.io/badge/FreelanceProfile-Upwork-informational?style=flat&logo=upwork&logoColor=white&color=ba000d)
+![](https://img.shields.io/badge/FreelanceProfile-Fiverr-informational?style=flat&logo=fiverr&logoColor=white&color=ba000d)
 
 <!-- <a href="https://github.com/itsatifsiddiqui">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsatifsiddiqui&theme=dark&hide_langs_below=1" />
